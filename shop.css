@@ -1,0 +1,38 @@
+body{
+    background-color: #c2c2a3;
+}
+div{
+    background-color:white;
+    border-radius:100px;
+    border-style:inset;
+}
+img{
+    width:300px;
+    height:450px;
+    border-radius:8px;
+    border-style:inset;
+}
+    img:hover {
+        -webkit-transform: scaleX(-1);
+        transform: scaleX(-1);
+      }
+
+h1{
+    font-family:tahoma;
+    border-radius:8px;
+    border-style:inset;
+
+}
+th{
+    font-family:tahoma;
+}
+.locate{
+    margin-left:auto; 
+    
+}
+.a1:hover{
+color:gray;
+}
+a:visited{
+    color:black;
+}

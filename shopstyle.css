@@ -1,0 +1,48 @@
+body{
+    background-color: #c2c2a3;
+}
+a:visited{
+    color: black;
+}
+a:hover{
+    color: gray;
+}
+img:hover {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+  }
+#locate{
+    margin-left:auto;
+}
+h1,h2,.ordertable,.tbcolor,.tbcolor2{
+    font-family: tahoma;
+}
+
+.tbcolor,.tbcolor2{
+    background-color:#d9d9d9;
+    border-image: fill;
+
+    border-style: solid
+    
+}
+.cod{
+    border-style: dotted;
+    border-radius:1000px;
+}
+.img1,.img2,.img3,.img4,.img5,.img6,.img7,.img8{
+    width: 200px;
+    height:300px;
+}
+.header{
+    background-color:#d9d9d9;
+    border-radius: 100px;  
+    border-style:inset;
+}
+input:hover{
+    color:gray;
+
+}
+th{
+    font-family:tahoma;
+}
+
