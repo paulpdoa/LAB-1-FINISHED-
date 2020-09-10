@@ -1,0 +1,167 @@
+body{  
+    background: linear-gradient(to right, #999966 22%, #ffffff 100%);
+}
+audio{
+    border-width:10px;
+    border-top-color:gray;
+    border-bottom-color:black;
+      border-style:ridge;
+      border-radius:100px;  
+}
+  video{
+    border-width:10px;
+    border-top-color:gray;
+    border-bottom-color:black;
+      border-style:ridge;
+      border-radius:100px;  
+  }
+p{
+    color:black;
+    font-family:Tahoma;
+}
+.title{
+   border-width:10px;
+   border-radius:10px;
+    border-style:ridge;
+    background-color:#333;
+    border-top-color:gray;
+    border-bottom-color:black;
+    color:white;
+    
+    
+}
+h1{
+    color:white;
+}
+
+h2{
+  
+    text-align: center;
+    font-size: 30px;
+    color:black;
+    font-family:tahoma;
+
+    color:white;
+
+    border-style:ridge;
+    border-radius:100px;
+    background-color:#333;
+
+    border-width:10px;
+    border-top-color:gray;
+    border-bottom-color:black;
+}
+hr{
+    border-style:inset;
+    border-width:5px;
+}
+li{
+    color:black;
+    font-family:tahoma;
+}
+
+.h2c1{
+    color: black;
+    
+}
+.class2{
+    border-radius: 20px;
+}
+.psize1{
+    color: black;
+    font-size: 18px;
+    font-family: Tahoma;   
+}
+
+.h21{
+    padding-bottom: 50px;
+}
+.img1{     
+border-style:ridge;
+border-top-color:gray;
+border-bottom-color:black;
+border-width:5px;
+border-radius:100%;
+} 
+.img1:hover{
+    -webkit-transform: scaleX(-1);
+transform: scaleX(-1);
+}
+
+.table2{
+    background-color:#333;
+
+    border-width:10px;
+    border-top-color:gray;
+    border-bottom-color:black;
+
+    border-style: ridge;
+    border-radius: 10px;
+
+}
+th{
+    font-family:tahoma;
+}
+.list1 {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    overflow: hidden;
+    background-color: #333;
+
+    position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+  
+.nav1 {
+    float:left;
+  }
+.nav1 a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+.nav1 a:hover {
+    background-color: lightgreen;
+  }
+.contact{
+    border-width:10px;
+    border-style:ridge;
+    border-radius:10px;
+    border-top-color:gray;
+    border-bottom-color:black;
+    font-family:tahoma;   
+
+    background-color:#333;
+}
+.bottom1 {
+list-style-type: none;
+margin:0;
+padding: 10px;
+overflow: hidden;
+background-color: #333;
+
+font-family:tahoma;
+position: -webkit-sticky;
+position: sticky;
+bottom: 0;
+}
+.bottom{
+    float:left;
+}
+.bottom a{
+    display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+.bottom a:hover{
+    background-color: lightgreen;
+}
+.bottom:visited{
+    color:black;
+}
